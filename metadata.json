@@ -1,0 +1,6 @@
+{
+  "name": "ElectroDesign AI",
+  "description": "AI-powered Electrical Machinery, Transformer, Power Electronics, and Infrastructure Design Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
